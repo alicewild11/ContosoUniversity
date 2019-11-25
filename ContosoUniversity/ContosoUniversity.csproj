@@ -16,5 +16,9 @@
   <ItemGroup>
     <Folder Include="Models\" />
     <Folder Include="Pages\Students\" />
+    <Folder Include="Models\SchoolViewModels\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="PaginatedList.cshtml" />
   </ItemGroup>
 </Project>
